@@ -75,6 +75,8 @@ Open in Android Studio and run, or:
 
 JDK 17, min SDK 26 (Android 8.0). Debug APK lands in `app/build/outputs/apk/debug/`.
 
+**Releases:** prebuilt APKs (signed release + debug) are on the [Releases page](https://github.com/Vinayakv4/Nexa-AI/releases) — grab `NexaAI-v1.0-release.apk` (7.6 MB, minified).
+
 ## Setting it up
 
 1. Open the app → you land in Settings → **Add provider**

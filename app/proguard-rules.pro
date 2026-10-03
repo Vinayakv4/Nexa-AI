@@ -8,3 +8,6 @@
 -keepclasseswithmembers class com.nexa.ai.** {
     kotlinx.serialization.KSerializer serializer(...);
 }
+
+# PDFBox: optional JPEG2000 decoder, not bundled
+-dontwarn com.gemalto.jp2.JP2Decoder
